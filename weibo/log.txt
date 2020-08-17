@@ -1,21 +1,41 @@
 [0;36m Begin Crawling 5620452341 [0m
-[0;36m follow_count 72 [0m
-[0;36m follow_count 271 [0m
-[0;36m follow_count 24 [0m
-[0;36m follow_count 28 [0m
-[0;36m follow_count 55 [0m
-[0;36m follow_count 20 [0m
-[0;36m follow_count 51 [0m
-[0;36m follow_count 6 [0m
-[0;36m follow_count 20 [0m
-[0;36m follow_count 9 [0m
-[0;36m follow_count 325 [0m
-[0;36m follow_count 24 [0m
-[0;36m follow_count 52 [0m
-[0;36m follow_count 35 [0m
-[0;36m follow_count 445 [0m
-[0;36m follow_count 23 [0m
-[0;36m follow_count 37 [0m
-[0;36m follow_count 68 [0m
-[0;36m follow_count 56 [0m
-[0;36m follow_count 87 [0m
+[0;36m Fan 你也敲可爱呢 21 1 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan 冲向月亮的火箭 443 43 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan 旧鹿麋92587 64 1 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan kimi-小星星44909 19 1 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan A_小陈520 225 21 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan 洁88486 12 1 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan 勿忘心安63897 75 1 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan 云烟成雨Lan 107 3 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan 用户7314725707 80 1 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan 用户6616981022 60 2 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan z9900908376 40 1 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan Bejahe 24 1 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan 用户7472043093 40 1 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan 奔赴星光寻啵 285 125 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan oo89675 37 1 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan 用户7490558398 21 1 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan 用户7489797522 23 1 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan 用户吴冠燕 49 1 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan 用户7448856097 69 2 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 
+[0;36m Fan 大力少女9 9 1 [0m
+Database version : 5.5.54-0ubuntu0.12.04.1 

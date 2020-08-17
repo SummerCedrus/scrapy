@@ -5,12 +5,13 @@
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/items.html
 
-import scrapy
+from scrapy import Item, Field
 
 
-class UserRelationItem(scrapy.Item):
+class UserRelationItem(Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    name = scrapy.Field()
-    follow_count = scrapy.Field()
-    followers_count = scrapy.Field()
+    id = Field()
+    name = Field()
+    follow_count = Field()
+    followers_count = Field()
